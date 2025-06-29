@@ -71,8 +71,9 @@ To solve this, we **fine-tune CLIP** on a domain-specific dataset to enhance ret
 
 
 ## 📸 Demo
-### Query: `"A child running with a dog in the park"`
+### Query: "A child running with a dog in the park"
 Top results: ✅ Precise image retrieved based on learned semantics.
+![demo](https://github.com/Umang-projects/Fine-Tuned-CLIP-Based-Image-Search-Engine./blob/main/demo.jpg)
 
 
 ## ⚙️ Installation
